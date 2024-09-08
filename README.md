@@ -16,14 +16,14 @@
    ```
 2. Соберите проект и запустите тесты:
    ```
-   ./gradlew build
+   gradle build
    ```
       ```
-   ./gradlew test
+   gradle test
    ```
 3. Создайте отчет Allure:
    ```
-   ./gradlew allureReport
+   gradle allureReport
    ```
    Отчет будет создан в директории build/reports/allure-report.
 
