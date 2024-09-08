@@ -23,7 +23,7 @@
    ```
 3. Создайте отчет Allure:
    ```
-   gradle allureReport
+   gradle allureServe
    ```
    Отчет будет создан в директории build/reports/allure-report.
 
