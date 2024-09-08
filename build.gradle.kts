@@ -15,7 +15,6 @@ dependencies {
 
     implementation("org.slf4j:slf4j-simple:2.0.7")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit5:2.0.20")
-//    implementation("io.qameta.allure:allure-kotlin-commons:2.4.0")
     testImplementation("io.rest-assured:rest-assured:5.5.0")
     testImplementation("io.qameta.allure:allure-junit5:2.29.0")
     implementation("io.qameta.allure:allure-rest-assured:2.29.0")
