@@ -11,8 +11,7 @@
 ## Запуск тестов
 1. Клонируйте репозиторий:
    ```
-   git clone 
-   cd 
+   git clone https://github.com/amkaznov/jsonplaceholder_test_task.git
    ```
 2. Соберите проект и запустите тесты:
    ```
