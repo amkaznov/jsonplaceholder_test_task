@@ -33,4 +33,5 @@
 ## Задание 2 - Топ 10 слов 
 
 В классе GetTopWords есть тест Get top words. Для того чтобы получить результат нужно запустииь тест через ide и в консоле отобразится список 
+
 <img width="214" alt="cons" src="https://github.com/user-attachments/assets/5585544a-b8ca-4aa6-a6cd-019841e6efcc">
